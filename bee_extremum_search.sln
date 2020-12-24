@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bee_extremum_search", "bee_extremum_search.pyproj", "{F0DC21D6-FA46-40F8-82FD-7D5E42C234A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0DC21D6-FA46-40F8-82FD-7D5E42C234A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DC21D6-FA46-40F8-82FD-7D5E42C234A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7BEBAE-6C89-4BA3-A04E-9D1B0F8857F9}
+	EndGlobalSection
+EndGlobal
