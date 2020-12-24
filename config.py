@@ -10,7 +10,7 @@ selected_zones_count = 3
 zone_size = 10
 max_iterations = 5000
 max_iterations_stale = 100
-zone_shrink_factor = 100 # 2 / (factor ** 2) == percents of size left for each dimension of coordinates
+zone_shrink_factor = 100 # 1 / factor == percents of size left for each dimension of coordinates
 
 def function(x, coefs = [-2, -2, -2], powers = [2, 2]): #function
     res = 0.0 if len(coefs) < 1 else coefs[0]
